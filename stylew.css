@@ -1,0 +1,12 @@
+
+.container{
+    border: 2PX solid red;
+    
+}
+.row{
+    border: 2px solid blue;
+}
+.col,.col-3,.col-6{
+    border: 1px solid salmon;
+    background-color:lightblue;
+}
